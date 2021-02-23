@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "2WK/T/eTGhGz4ssIY3DCj2rEKlUcZQL8yM/6ynUOUk5JAl6iczWekNpETLLNOTi2KU/cs8ZcX/6Jp/lBaSXF6g==",
+  "dgSpecHash": "vuSXRdQr9o4LQ8wbOr0MPX7lJM1YpWIkmcuxZRHqjF5bSUDoA4L/+Ibx7lVIuMsBhCiLb++U8uzr+GppsT074A==",
   "success": true,
   "projectFilePath": "C:\\Users\\Yohan Malshika\\source\\repos\\UserMangSystem\\UserMangSystem\\UserMangSystem.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Yohan Malshika\\.nuget\\packages\\microsoft.aspnetcore.authentication.facebook\\3.1.12\\microsoft.aspnetcore.authentication.facebook.3.1.12.nupkg.sha512",
     "C:\\Users\\Yohan Malshika\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\3.1.11\\microsoft.aspnetcore.cryptography.internal.3.1.11.nupkg.sha512",
     "C:\\Users\\Yohan Malshika\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\3.1.11\\microsoft.aspnetcore.cryptography.keyderivation.3.1.11.nupkg.sha512",
     "C:\\Users\\Yohan Malshika\\.nuget\\packages\\microsoft.aspnetcore.diagnostics.entityframeworkcore\\3.1.10\\microsoft.aspnetcore.diagnostics.entityframeworkcore.3.1.10.nupkg.sha512",

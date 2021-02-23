@@ -203,3 +203,4 @@ C:\Users\Yohan Malshika\source\repos\UserMangSystem\UserMangSystem\obj\Debug\net
 C:\Users\Yohan Malshika\source\repos\UserMangSystem\UserMangSystem\obj\Debug\netcoreapp3.1\Razor\Views\RoleManager\Index.cshtml.g.cs
 C:\Users\Yohan Malshika\source\repos\UserMangSystem\UserMangSystem\obj\Debug\netcoreapp3.1\Razor\Views\UserRoles\Index.cshtml.g.cs
 C:\Users\Yohan Malshika\source\repos\UserMangSystem\UserMangSystem\obj\Debug\netcoreapp3.1\Razor\Views\UserRoles\Manage.cshtml.g.cs
+C:\Users\Yohan Malshika\source\repos\UserMangSystem\UserMangSystem\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.Facebook.dll

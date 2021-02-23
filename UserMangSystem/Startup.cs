@@ -35,6 +35,13 @@ namespace UserMangSystem
                     .AddDefaultTokenProviders();
             services.AddControllersWithViews();
             services.AddRazorPages();
+
+            services.AddAuthentication()
+                .AddFacebook(facebookOptions =>
+                {
+                    facebookOptions.AppId = Configuration.GetConnectionString("AppId");
+                    facebookOptions.AppSecret = Configuration.GetConnectionString("SecretId");
+                });
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
